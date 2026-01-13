@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Here's a bit more about me:
 
 <p>  
  <h4> E-Mail: bestalapavani@gmail.com </h4>
- <h4> Call : +91 9014462873 </h4> <a href="www.linkedin.com/in/pavani-bestala-3b8724297">  <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="" > </a>  
+ <h4> Call : +91 9014462873 </h4> <a href="www.linkedin.com/in/pavani-bestala">  <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="" > </a>  
 
 
 </p>
